@@ -4,4 +4,7 @@ pandas
 scikit-learn
 matplotlib
 joblib
--e .
+scikit-learn
+catboost
+xgboost
+dill
